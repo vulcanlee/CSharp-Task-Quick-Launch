@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK004 建立和起始有參
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK005 利用TAP工作建立大量並行工作練習", "TK005 利用TAP工作建立大量並行工作練習\TK005 利用TAP工作建立大量並行工作練習.csproj", "{4A68ADDE-4762-4D63-89B9-7A3CB60D6C75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK006 等候非同步工作完成範例", "TK006 等候非同步工作完成範例\TK006 等候非同步工作完成範例.csproj", "{D3F09B06-C151-478C-86EC-8E943C8D6A65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4A68ADDE-4762-4D63-89B9-7A3CB60D6C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A68ADDE-4762-4D63-89B9-7A3CB60D6C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A68ADDE-4762-4D63-89B9-7A3CB60D6C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F09B06-C151-478C-86EC-8E943C8D6A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F09B06-C151-478C-86EC-8E943C8D6A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F09B06-C151-478C-86EC-8E943C8D6A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F09B06-C151-478C-86EC-8E943C8D6A65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
