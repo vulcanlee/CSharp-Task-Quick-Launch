@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK001 Task.Run 與 Task.Fac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK002 使用 TaskCompletionSource 類別 建立工作", "TK002 使用 TaskCompletionSource 類別 建立工作\TK002 使用 TaskCompletionSource 類別 建立工作.csproj", "{9933E095-B839-4458-9277-01A8590AD70B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK003 各種非同步工作的建立與啟動方法", "TK003 各種非同步工作的建立與啟動方法\TK003 各種非同步工作的建立與啟動方法.csproj", "{7B61B93B-9848-4366-B91E-E09B449FD8A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9933E095-B839-4458-9277-01A8590AD70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9933E095-B839-4458-9277-01A8590AD70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9933E095-B839-4458-9277-01A8590AD70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B61B93B-9848-4366-B91E-E09B449FD8A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B61B93B-9848-4366-B91E-E09B449FD8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B61B93B-9848-4366-B91E-E09B449FD8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B61B93B-9848-4366-B91E-E09B449FD8A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
