@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK001 Task.Run 與 Task.Factory.StartNew 差異(非同步委派)", "TK001 Task.Run 與 Task.Factory.StartNew 差異(非同步委派)\TK001 Task.Run 與 Task.Factory.StartNew 差異(非同步委派).csproj", "{8C645BAB-D847-4187-B8EB-9C316DBB151D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK002 使用 TaskCompletionSource 類別 建立工作", "TK002 使用 TaskCompletionSource 類別 建立工作\TK002 使用 TaskCompletionSource 類別 建立工作.csproj", "{9933E095-B839-4458-9277-01A8590AD70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C645BAB-D847-4187-B8EB-9C316DBB151D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C645BAB-D847-4187-B8EB-9C316DBB151D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C645BAB-D847-4187-B8EB-9C316DBB151D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C645BAB-D847-4187-B8EB-9C316DBB151D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9933E095-B839-4458-9277-01A8590AD70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9933E095-B839-4458-9277-01A8590AD70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9933E095-B839-4458-9277-01A8590AD70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9933E095-B839-4458-9277-01A8590AD70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {896A2943-2643-4CBE-9E31-1911CFA99A92}
+	EndGlobalSection
+EndGlobal
