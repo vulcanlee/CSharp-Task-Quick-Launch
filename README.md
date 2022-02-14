@@ -5,8 +5,8 @@
 |TK001|Task.Run 與 Task.Factory.StartNew 差異(非同步委派)||
 |TK002|使用 TaskCompletionSource 類別 建立工作||
 |TK003|各種非同步工作的建立與啟動方法||
-|TK004|||
-|TK005|||
+|TK004|建立和起始有參數非同步工作||
+|TK005|利用TAP工作建立大量並行工作練習||
 |TK006|||
 |TK007|||
 |TK008|||
