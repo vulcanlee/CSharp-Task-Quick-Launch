@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK010 Task.WhenAny，等候
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK011 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAll", "TK011 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAll\TK011 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAll.csproj", "{86AF0BEC-F3F3-4AB2-B2FB-08FB99E596DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK012 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAny", "TK012 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAny\TK012 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAny.csproj", "{4E1CF75F-9455-4A18-9843-82E1D90ABB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK013 用 ContinueWith 接續不同工作狀態並執行相關處理", "TK013 用 ContinueWith 接續不同工作狀態並執行相關處理\TK013 用 ContinueWith 接續不同工作狀態並執行相關處理.csproj", "{381A83D0-7209-4D8F-AA82-A2336193EF8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{86AF0BEC-F3F3-4AB2-B2FB-08FB99E596DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86AF0BEC-F3F3-4AB2-B2FB-08FB99E596DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86AF0BEC-F3F3-4AB2-B2FB-08FB99E596DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1CF75F-9455-4A18-9843-82E1D90ABB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1CF75F-9455-4A18-9843-82E1D90ABB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1CF75F-9455-4A18-9843-82E1D90ABB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1CF75F-9455-4A18-9843-82E1D90ABB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381A83D0-7209-4D8F-AA82-A2336193EF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381A83D0-7209-4D8F-AA82-A2336193EF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381A83D0-7209-4D8F-AA82-A2336193EF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381A83D0-7209-4D8F-AA82-A2336193EF8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
