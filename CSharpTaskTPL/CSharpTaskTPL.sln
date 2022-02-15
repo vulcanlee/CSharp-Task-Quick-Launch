@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK001 Task.Run 與 Task.Factory.StartNew 差異(非同步委派)", "TK001 Task.Run 與 Task.Factory.StartNew 差異(非同步委派)\TK001 Task.Run 與 Task.Factory.StartNew 差異(非同步委派).csproj", "{8C645BAB-D847-4187-B8EB-9C316DBB151D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK001 Task.Run 與 Task.Factory.StartNew 差異(非同步委派)", "TK001 Task.Run 與 Task.Factory.StartNew 差異(非同步委派)\TK001 Task.Run 與 Task.Factory.StartNew 差異(非同步委派).csproj", "{8C645BAB-D847-4187-B8EB-9C316DBB151D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK002 使用 TaskCompletionSource 類別 建立工作", "TK002 使用 TaskCompletionSource 類別 建立工作\TK002 使用 TaskCompletionSource 類別 建立工作.csproj", "{9933E095-B839-4458-9277-01A8590AD70B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK002 使用 TaskCompletionSource 類別 建立工作", "TK002 使用 TaskCompletionSource 類別 建立工作\TK002 使用 TaskCompletionSource 類別 建立工作.csproj", "{9933E095-B839-4458-9277-01A8590AD70B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK003 各種非同步工作的建立與啟動方法", "TK003 各種非同步工作的建立與啟動方法\TK003 各種非同步工作的建立與啟動方法.csproj", "{7B61B93B-9848-4366-B91E-E09B449FD8A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK003 各種非同步工作的建立與啟動方法", "TK003 各種非同步工作的建立與啟動方法\TK003 各種非同步工作的建立與啟動方法.csproj", "{7B61B93B-9848-4366-B91E-E09B449FD8A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK004 建立和起始有參數非同步工作", "TK004 建立和起始有參數非同步工作\TK004 建立和起始有參數非同步工作.csproj", "{30C40B2F-AB65-41A3-AA3B-E13770985A48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK004 建立和起始有參數非同步工作", "TK004 建立和起始有參數非同步工作\TK004 建立和起始有參數非同步工作.csproj", "{30C40B2F-AB65-41A3-AA3B-E13770985A48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK005 利用TAP工作建立大量並行工作練習", "TK005 利用TAP工作建立大量並行工作練習\TK005 利用TAP工作建立大量並行工作練習.csproj", "{4A68ADDE-4762-4D63-89B9-7A3CB60D6C75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK005 利用TAP工作建立大量並行工作練習", "TK005 利用TAP工作建立大量並行工作練習\TK005 利用TAP工作建立大量並行工作練習.csproj", "{4A68ADDE-4762-4D63-89B9-7A3CB60D6C75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK006 等候非同步工作完成範例", "TK006 等候非同步工作完成範例\TK006 等候非同步工作完成範例.csproj", "{D3F09B06-C151-478C-86EC-8E943C8D6A65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK006 等候非同步工作完成範例", "TK006 等候非同步工作完成範例\TK006 等候非同步工作完成範例.csproj", "{D3F09B06-C151-478C-86EC-8E943C8D6A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK007 Task.WaitAll，等待所有工作 Task 物件完成執行", "TK007 Task.WaitAll，等待所有工作 Task 物件完成執行\TK007 Task.WaitAll，等待所有工作 Task 物件完成執行.csproj", "{46AABACA-EB43-4678-B4B7-33A20061E6BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D3F09B06-C151-478C-86EC-8E943C8D6A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3F09B06-C151-478C-86EC-8E943C8D6A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3F09B06-C151-478C-86EC-8E943C8D6A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46AABACA-EB43-4678-B4B7-33A20061E6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AABACA-EB43-4678-B4B7-33A20061E6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AABACA-EB43-4678-B4B7-33A20061E6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AABACA-EB43-4678-B4B7-33A20061E6BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
