@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK006 等候非同步工作
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK007 Task.WaitAll，等待所有工作 Task 物件完成執行", "TK007 Task.WaitAll，等待所有工作 Task 物件完成執行\TK007 Task.WaitAll，等待所有工作 Task 物件完成執行.csproj", "{46AABACA-EB43-4678-B4B7-33A20061E6BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK008 Task.WaitAny，等候任一工作 Task 物件完成執行", "TK008 Task.WaitAny，等候任一工作 Task 物件完成執行\TK008 Task.WaitAny，等候任一工作 Task 物件完成執行.csproj", "{1632D3F9-F896-4514-A5DB-42894E23C4B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{46AABACA-EB43-4678-B4B7-33A20061E6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46AABACA-EB43-4678-B4B7-33A20061E6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46AABACA-EB43-4678-B4B7-33A20061E6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1632D3F9-F896-4514-A5DB-42894E23C4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1632D3F9-F896-4514-A5DB-42894E23C4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1632D3F9-F896-4514-A5DB-42894E23C4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1632D3F9-F896-4514-A5DB-42894E23C4B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
