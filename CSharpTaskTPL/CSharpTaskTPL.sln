@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK023 當所有等候工作
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK024 了解各種非同步作業中對於例外異常會產生何種情況", "TK024 了解各種非同步作業中對於例外異常會產生何種情況\TK024 了解各種非同步作業中對於例外異常會產生何種情況.csproj", "{EEDAF265-ECA4-4E20-B0AE-A9D0B589A5BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK025 將 APM 改成 TAP 設計模式", "TK025 將 APM 改成 TAP 設計模式\TK025 將 APM 改成 TAP 設計模式.csproj", "{726871B2-5590-491E-93AD-282876AC7936}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{EEDAF265-ECA4-4E20-B0AE-A9D0B589A5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEDAF265-ECA4-4E20-B0AE-A9D0B589A5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEDAF265-ECA4-4E20-B0AE-A9D0B589A5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726871B2-5590-491E-93AD-282876AC7936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726871B2-5590-491E-93AD-282876AC7936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726871B2-5590-491E-93AD-282876AC7936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726871B2-5590-491E-93AD-282876AC7936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
