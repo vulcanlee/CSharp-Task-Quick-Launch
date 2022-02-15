@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK008 Task.WaitAny，等候
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK009 Task.WhenAll，等候所有工作 Task 物件完成執行", "TK009 Task.WhenAll，等候所有工作 Task 物件完成執行\TK009 Task.WhenAll，等候所有工作 Task 物件完成執行.csproj", "{54EB5B76-2F4A-4AFA-9F61-E7B3FFB3DF4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK010 Task.WhenAny，等候任一工作 Task 物件完成執行", "TK010 Task.WhenAny，等候任一工作 Task 物件完成執行\TK010 Task.WhenAny，等候任一工作 Task 物件完成執行.csproj", "{EFB6AAF0-541A-4282-8C6D-B084FEFFAEFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{54EB5B76-2F4A-4AFA-9F61-E7B3FFB3DF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54EB5B76-2F4A-4AFA-9F61-E7B3FFB3DF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54EB5B76-2F4A-4AFA-9F61-E7B3FFB3DF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB6AAF0-541A-4282-8C6D-B084FEFFAEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB6AAF0-541A-4282-8C6D-B084FEFFAEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB6AAF0-541A-4282-8C6D-B084FEFFAEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB6AAF0-541A-4282-8C6D-B084FEFFAEFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
