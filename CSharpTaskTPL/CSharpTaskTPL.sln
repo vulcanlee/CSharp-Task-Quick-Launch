@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK018 CancellationTokenSour
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK019 使用 CancellationTokenSource 取消 HttpClient 網路存取練習", "TK019 使用 CancellationTokenSource 取消 HttpClient 網路\TK019 使用 CancellationTokenSource 取消 HttpClient 網路存取練習.csproj", "{3A787A38-3F17-46C5-970A-A0AAB98A8A61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken", "TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken\TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken.csproj", "{5D462C8C-16AA-479C-B616-8C38EEEF5279}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{3A787A38-3F17-46C5-970A-A0AAB98A8A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A787A38-3F17-46C5-970A-A0AAB98A8A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A787A38-3F17-46C5-970A-A0AAB98A8A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D462C8C-16AA-479C-B616-8C38EEEF5279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D462C8C-16AA-479C-B616-8C38EEEF5279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D462C8C-16AA-479C-B616-8C38EEEF5279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D462C8C-16AA-479C-B616-8C38EEEF5279}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

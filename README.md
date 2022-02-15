@@ -21,7 +21,7 @@
 |TK017|隨堂測驗：檢查要求失敗的工作||
 |TK018|CancellationTokenSource 與 CancellationToken 的設計練習||
 |TK019|使用 CancellationTokenSource 取消 HttpClient 網路存取練習||
-|TK020|||
+|TK020|CreateLinkedTokenSource 來組合兩個 CancellationToken||
 |TK021|||
 |TK022|||
 |TK023|||
