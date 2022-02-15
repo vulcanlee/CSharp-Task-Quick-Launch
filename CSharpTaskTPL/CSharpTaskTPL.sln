@@ -55,6 +55,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK025 將 APM 改成 TAP �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK026 各種非同步工作的建立與啟動方法", "TK026 各種非同步工作的建立與啟動方法\TK026 各種非同步工作的建立與啟動方法.csproj", "{B2CCD26C-7716-4CBA-BF15-870A264326BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK027 建立和起始有參數非同步工作", "TK027 建立和起始有參數非同步工作\TK027 建立和起始有參數非同步工作.csproj", "{808D7AC7-A7D3-440E-8E5A-64E769947071}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{B2CCD26C-7716-4CBA-BF15-870A264326BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2CCD26C-7716-4CBA-BF15-870A264326BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2CCD26C-7716-4CBA-BF15-870A264326BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808D7AC7-A7D3-440E-8E5A-64E769947071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808D7AC7-A7D3-440E-8E5A-64E769947071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808D7AC7-A7D3-440E-8E5A-64E769947071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808D7AC7-A7D3-440E-8E5A-64E769947071}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
