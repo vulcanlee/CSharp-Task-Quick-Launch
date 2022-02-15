@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK013 用 ContinueWith 接�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK014 各種不同取得工作執行結果的用法", "TK014 各種不同取得工作執行結果的用法\TK014 各種不同取得工作執行結果的用法.csproj", "{254B78F5-F3E1-4EB8-B74A-B14F4BA92165}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK015 了解各種委派類型工作物件的狀態列舉值變化情形", "TK015 了解各種委派類型工作物件的狀態列舉值變化情形\TK015 了解各種委派類型工作物件的狀態列舉值變化情形.csproj", "{57401F4B-C0B4-4724-9011-32D68D9DCB86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{254B78F5-F3E1-4EB8-B74A-B14F4BA92165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{254B78F5-F3E1-4EB8-B74A-B14F4BA92165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{254B78F5-F3E1-4EB8-B74A-B14F4BA92165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57401F4B-C0B4-4724-9011-32D68D9DCB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57401F4B-C0B4-4724-9011-32D68D9DCB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57401F4B-C0B4-4724-9011-32D68D9DCB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57401F4B-C0B4-4724-9011-32D68D9DCB86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
