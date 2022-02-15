@@ -15,43 +15,45 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK005 利用TAP工作建立
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK006 等候非同步工作完成範例", "TK006 等候非同步工作完成範例\TK006 等候非同步工作完成範例.csproj", "{D3F09B06-C151-478C-86EC-8E943C8D6A65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK007 Task.WaitAll，等待所有工作 Task 物件完成執行", "TK007 Task.WaitAll，等待所有工作 Task 物件完成執行\TK007 Task.WaitAll，等待所有工作 Task 物件完成執行.csproj", "{46AABACA-EB43-4678-B4B7-33A20061E6BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK007 Task.WaitAll，等待所有工作 Task 物件完成執行", "TK007 Task.WaitAll，等待所有工作 Task 物件完成執行\TK007 Task.WaitAll，等待所有工作 Task 物件完成執行.csproj", "{46AABACA-EB43-4678-B4B7-33A20061E6BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK008 Task.WaitAny，等候任一工作 Task 物件完成執行", "TK008 Task.WaitAny，等候任一工作 Task 物件完成執行\TK008 Task.WaitAny，等候任一工作 Task 物件完成執行.csproj", "{1632D3F9-F896-4514-A5DB-42894E23C4B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK008 Task.WaitAny，等候任一工作 Task 物件完成執行", "TK008 Task.WaitAny，等候任一工作 Task 物件完成執行\TK008 Task.WaitAny，等候任一工作 Task 物件完成執行.csproj", "{1632D3F9-F896-4514-A5DB-42894E23C4B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK009 Task.WhenAll，等候所有工作 Task 物件完成執行", "TK009 Task.WhenAll，等候所有工作 Task 物件完成執行\TK009 Task.WhenAll，等候所有工作 Task 物件完成執行.csproj", "{54EB5B76-2F4A-4AFA-9F61-E7B3FFB3DF4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK009 Task.WhenAll，等候所有工作 Task 物件完成執行", "TK009 Task.WhenAll，等候所有工作 Task 物件完成執行\TK009 Task.WhenAll，等候所有工作 Task 物件完成執行.csproj", "{54EB5B76-2F4A-4AFA-9F61-E7B3FFB3DF4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK010 Task.WhenAny，等候任一工作 Task 物件完成執行", "TK010 Task.WhenAny，等候任一工作 Task 物件完成執行\TK010 Task.WhenAny，等候任一工作 Task 物件完成執行.csproj", "{EFB6AAF0-541A-4282-8C6D-B084FEFFAEFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK010 Task.WhenAny，等候任一工作 Task 物件完成執行", "TK010 Task.WhenAny，等候任一工作 Task 物件完成執行\TK010 Task.WhenAny，等候任一工作 Task 物件完成執行.csproj", "{EFB6AAF0-541A-4282-8C6D-B084FEFFAEFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK011 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAll", "TK011 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAll\TK011 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAll.csproj", "{86AF0BEC-F3F3-4AB2-B2FB-08FB99E596DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK011 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAll", "TK011 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAll\TK011 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAll.csproj", "{86AF0BEC-F3F3-4AB2-B2FB-08FB99E596DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK012 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAny", "TK012 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAny\TK012 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAny.csproj", "{4E1CF75F-9455-4A18-9843-82E1D90ABB82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK012 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAny", "TK012 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAny\TK012 同時呼叫多個 WebAPI 並取得計算結果練習- WhenAny.csproj", "{4E1CF75F-9455-4A18-9843-82E1D90ABB82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK013 用 ContinueWith 接續不同工作狀態並執行相關處理", "TK013 用 ContinueWith 接續不同工作狀態並執行相關處理\TK013 用 ContinueWith 接續不同工作狀態並執行相關處理.csproj", "{381A83D0-7209-4D8F-AA82-A2336193EF8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK013 用 ContinueWith 接續不同工作狀態並執行相關處理", "TK013 用 ContinueWith 接續不同工作狀態並執行相關處理\TK013 用 ContinueWith 接續不同工作狀態並執行相關處理.csproj", "{381A83D0-7209-4D8F-AA82-A2336193EF8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK014 各種不同取得工作執行結果的用法", "TK014 各種不同取得工作執行結果的用法\TK014 各種不同取得工作執行結果的用法.csproj", "{254B78F5-F3E1-4EB8-B74A-B14F4BA92165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK014 各種不同取得工作執行結果的用法", "TK014 各種不同取得工作執行結果的用法\TK014 各種不同取得工作執行結果的用法.csproj", "{254B78F5-F3E1-4EB8-B74A-B14F4BA92165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK015 了解各種委派類型工作物件的狀態列舉值變化情形", "TK015 了解各種委派類型工作物件的狀態列舉值變化情形\TK015 了解各種委派類型工作物件的狀態列舉值變化情形.csproj", "{57401F4B-C0B4-4724-9011-32D68D9DCB86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK015 了解各種委派類型工作物件的狀態列舉值變化情形", "TK015 了解各種委派類型工作物件的狀態列舉值變化情形\TK015 了解各種委派類型工作物件的狀態列舉值變化情形.csproj", "{57401F4B-C0B4-4724-9011-32D68D9DCB86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK016 了解各種承諾類型工作物件的狀態列舉值變化情形", "TK016 了解各種承諾類型工作物件的狀態列舉值變化情形\TK016 了解各種承諾類型工作物件的狀態列舉值變化情形.csproj", "{47C44201-CF95-4EF7-8F88-FF87467C250F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK016 了解各種承諾類型工作物件的狀態列舉值變化情形", "TK016 了解各種承諾類型工作物件的狀態列舉值變化情形\TK016 了解各種承諾類型工作物件的狀態列舉值變化情形.csproj", "{47C44201-CF95-4EF7-8F88-FF87467C250F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK017 隨堂測驗：檢查要求失敗的工作", "TK017 隨堂測驗：檢查要求失敗的工作\TK017 隨堂測驗：檢查要求失敗的工作.csproj", "{F2797026-3C19-4740-BE18-1BBCDA43D1BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK017 隨堂測驗：檢查要求失敗的工作", "TK017 隨堂測驗：檢查要求失敗的工作\TK017 隨堂測驗：檢查要求失敗的工作.csproj", "{F2797026-3C19-4740-BE18-1BBCDA43D1BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK018 CancellationTokenSource 與 CancellationToken 的設計練習", "TK018 CancellationTokenSource 與 CancellationToken 的設計練習\TK018 CancellationTokenSource 與 CancellationToken 的設計練習.csproj", "{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK018 CancellationTokenSource 與 CancellationToken 的設計練習", "TK018 CancellationTokenSource 與 CancellationToken 的設計練習\TK018 CancellationTokenSource 與 CancellationToken 的設計練習.csproj", "{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK019 使用 CancellationTokenSource 取消 HttpClient 網路存取練習", "TK019 使用 CancellationTokenSource 取消 HttpClient 網路\TK019 使用 CancellationTokenSource 取消 HttpClient 網路存取練習.csproj", "{3A787A38-3F17-46C5-970A-A0AAB98A8A61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK019 使用 CancellationTokenSource 取消 HttpClient 網路存取練習", "TK019 使用 CancellationTokenSource 取消 HttpClient 網路\TK019 使用 CancellationTokenSource 取消 HttpClient 網路存取練習.csproj", "{3A787A38-3F17-46C5-970A-A0AAB98A8A61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken", "TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken\TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken.csproj", "{5D462C8C-16AA-479C-B616-8C38EEEF5279}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken", "TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken\TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken.csproj", "{5D462C8C-16AA-479C-B616-8C38EEEF5279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK021 Console用HttpClient從下載大檔案，並更新下載進度", "TK021 Console用HttpClient從下載大檔案，並更新下載進度\TK021 Console用HttpClient從下載大檔案，並更新下載進度.csproj", "{C58F60BD-CDD9-4039-8584-7324A970D79B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK021 Console用HttpClient從下載大檔案，並更新下載進度", "TK021 Console用HttpClient從下載大檔案，並更新下載進度\TK021 Console用HttpClient從下載大檔案，並更新下載進度.csproj", "{C58F60BD-CDD9-4039-8584-7324A970D79B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK022 WPF用HttpClient從下載大檔案，並更新下載進度", "TK022 WPF用HttpClient從下載大檔案，並更新下載進度\TK022 WPF用HttpClient從下載大檔案，並更新下載進度.csproj", "{E46D1C54-2B5F-4073-9F70-19667A5B1BAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK022 WPF用HttpClient從下載大檔案，並更新下載進度", "TK022 WPF用HttpClient從下載大檔案，並更新下載進度\TK022 WPF用HttpClient從下載大檔案，並更新下載進度.csproj", "{E46D1C54-2B5F-4073-9F70-19667A5B1BAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK023 當所有等候工作都執行結束後，可以檢查是否有執行失敗的工作", "TK023 當所有等候工作都執行結束後，可以檢查是否有執行失敗的工作\TK023 當所有等候工作都執行結束後，可以檢查是否有執行失敗的工作.csproj", "{E9B4B58E-BC61-4DD6-90F0-6B076ED5435E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK023 當所有等候工作都執行結束後，可以檢查是否有執行失敗的工作", "TK023 當所有等候工作都執行結束後，可以檢查是否有執行失敗的工作\TK023 當所有等候工作都執行結束後，可以檢查是否有執行失敗的工作.csproj", "{E9B4B58E-BC61-4DD6-90F0-6B076ED5435E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK024 了解各種非同步作業中對於例外異常會產生何種情況", "TK024 了解各種非同步作業中對於例外異常會產生何種情況\TK024 了解各種非同步作業中對於例外異常會產生何種情況.csproj", "{EEDAF265-ECA4-4E20-B0AE-A9D0B589A5BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK024 了解各種非同步作業中對於例外異常會產生何種情況", "TK024 了解各種非同步作業中對於例外異常會產生何種情況\TK024 了解各種非同步作業中對於例外異常會產生何種情況.csproj", "{EEDAF265-ECA4-4E20-B0AE-A9D0B589A5BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK025 將 APM 改成 TAP 設計模式", "TK025 將 APM 改成 TAP 設計模式\TK025 將 APM 改成 TAP 設計模式.csproj", "{726871B2-5590-491E-93AD-282876AC7936}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK025 將 APM 改成 TAP 設計模式", "TK025 將 APM 改成 TAP 設計模式\TK025 將 APM 改成 TAP 設計模式.csproj", "{726871B2-5590-491E-93AD-282876AC7936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK026 各種非同步工作的建立與啟動方法", "TK026 各種非同步工作的建立與啟動方法\TK026 各種非同步工作的建立與啟動方法.csproj", "{B2CCD26C-7716-4CBA-BF15-870A264326BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{726871B2-5590-491E-93AD-282876AC7936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{726871B2-5590-491E-93AD-282876AC7936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{726871B2-5590-491E-93AD-282876AC7936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CCD26C-7716-4CBA-BF15-870A264326BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CCD26C-7716-4CBA-BF15-870A264326BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CCD26C-7716-4CBA-BF15-870A264326BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CCD26C-7716-4CBA-BF15-870A264326BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
