@@ -10,7 +10,7 @@
 |TK006|等候非同步工作完成範例||
 |TK007|Task.WaitAll，等待所有工作 Task 物件完成執行||
 |TK008|Task.WaitAny，等候任一工作 Task 物件完成執行||
-|TK009|||
+|TK009|Task.WhenAll，等候所有工作 Task 物件完成執行||
 |TK010|||
 |TK011|||
 |TK012|||
