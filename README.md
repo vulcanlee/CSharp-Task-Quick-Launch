@@ -11,8 +11,8 @@
 |TK007|Task.WaitAll，等待所有工作 Task 物件完成執行||
 |TK008|Task.WaitAny，等候任一工作 Task 物件完成執行||
 |TK009|Task.WhenAll，等候所有工作 Task 物件完成執行||
-|TK010|||
-|TK011|||
+|TK010|Task.WhenAny，等候任一工作 Task 物件完成執行||
+|TK011|同時呼叫多個 WebAPI 並取得計算結果練習- WhenAll||
 |TK012|||
 |TK013|||
 |TK014|||
