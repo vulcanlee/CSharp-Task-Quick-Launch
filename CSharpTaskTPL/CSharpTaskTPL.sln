@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK016 了解各種承諾類
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK017 隨堂測驗：檢查要求失敗的工作", "TK017 隨堂測驗：檢查要求失敗的工作\TK017 隨堂測驗：檢查要求失敗的工作.csproj", "{F2797026-3C19-4740-BE18-1BBCDA43D1BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK018 CancellationTokenSource 與 CancellationToken 的設計練習", "TK018 CancellationTokenSource 與 CancellationToken 的設計練習\TK018 CancellationTokenSource 與 CancellationToken 的設計練習.csproj", "{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{F2797026-3C19-4740-BE18-1BBCDA43D1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2797026-3C19-4740-BE18-1BBCDA43D1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2797026-3C19-4740-BE18-1BBCDA43D1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
