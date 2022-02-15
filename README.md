@@ -24,7 +24,7 @@
 |TK020|CreateLinkedTokenSource 來組合兩個 CancellationToken||
 |TK021|Console用HttpClient從下載大檔案，並更新下載進度||
 |TK022|WPF用HttpClient從下載大檔案，並更新下載進度||
-|TK023|||
+|TK023|當所有等候工作都執行結束後，可以檢查是否有執行失敗的工作||
 |TK024|||
 |TK025|||
 |TK026|||
