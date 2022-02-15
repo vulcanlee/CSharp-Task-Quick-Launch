@@ -23,7 +23,7 @@
 |TK019|使用 CancellationTokenSource 取消 HttpClient 網路存取練習||
 |TK020|CreateLinkedTokenSource 來組合兩個 CancellationToken||
 |TK021|Console用HttpClient從下載大檔案，並更新下載進度||
-|TK022|||
+|TK022|WPF用HttpClient從下載大檔案，並更新下載進度||
 |TK023|||
 |TK024|||
 |TK025|||
