@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK014 各種不同取得工
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK015 了解各種委派類型工作物件的狀態列舉值變化情形", "TK015 了解各種委派類型工作物件的狀態列舉值變化情形\TK015 了解各種委派類型工作物件的狀態列舉值變化情形.csproj", "{57401F4B-C0B4-4724-9011-32D68D9DCB86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK016 了解各種承諾類型工作物件的狀態列舉值變化情形", "TK016 了解各種承諾類型工作物件的狀態列舉值變化情形\TK016 了解各種承諾類型工作物件的狀態列舉值變化情形.csproj", "{47C44201-CF95-4EF7-8F88-FF87467C250F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{57401F4B-C0B4-4724-9011-32D68D9DCB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57401F4B-C0B4-4724-9011-32D68D9DCB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57401F4B-C0B4-4724-9011-32D68D9DCB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C44201-CF95-4EF7-8F88-FF87467C250F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C44201-CF95-4EF7-8F88-FF87467C250F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C44201-CF95-4EF7-8F88-FF87467C250F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C44201-CF95-4EF7-8F88-FF87467C250F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
