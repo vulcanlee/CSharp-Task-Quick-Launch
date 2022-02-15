@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK017 隨堂測驗：檢查
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK018 CancellationTokenSource 與 CancellationToken 的設計練習", "TK018 CancellationTokenSource 與 CancellationToken 的設計練習\TK018 CancellationTokenSource 與 CancellationToken 的設計練習.csproj", "{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK019 使用 CancellationTokenSource 取消 HttpClient 網路存取練習", "TK019 使用 CancellationTokenSource 取消 HttpClient 網路\TK019 使用 CancellationTokenSource 取消 HttpClient 網路存取練習.csproj", "{3A787A38-3F17-46C5-970A-A0AAB98A8A61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3D99A29-25DB-4F9C-8B98-2D480EBFCEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A787A38-3F17-46C5-970A-A0AAB98A8A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A787A38-3F17-46C5-970A-A0AAB98A8A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A787A38-3F17-46C5-970A-A0AAB98A8A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A787A38-3F17-46C5-970A-A0AAB98A8A61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

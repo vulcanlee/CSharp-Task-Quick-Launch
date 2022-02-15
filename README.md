@@ -20,7 +20,7 @@
 |TK016|了解各種承諾類型工作物件的狀態列舉值變化情形||
 |TK017|隨堂測驗：檢查要求失敗的工作||
 |TK018|CancellationTokenSource 與 CancellationToken 的設計練習||
-|TK019|||
+|TK019|使用 CancellationTokenSource 取消 HttpClient 網路存取練習||
 |TK020|||
 |TK021|||
 |TK022|||
