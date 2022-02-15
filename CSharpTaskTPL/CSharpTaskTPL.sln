@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK019 使用 CancellationTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken", "TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken\TK020 CreateLinkedTokenSource 來組合兩個 CancellationToken.csproj", "{5D462C8C-16AA-479C-B616-8C38EEEF5279}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK021 Console用HttpClient從下載大檔案，並更新下載進度", "TK021 Console用HttpClient從下載大檔案，並更新下載進度\TK021 Console用HttpClient從下載大檔案，並更新下載進度.csproj", "{C58F60BD-CDD9-4039-8584-7324A970D79B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{5D462C8C-16AA-479C-B616-8C38EEEF5279}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D462C8C-16AA-479C-B616-8C38EEEF5279}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D462C8C-16AA-479C-B616-8C38EEEF5279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58F60BD-CDD9-4039-8584-7324A970D79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58F60BD-CDD9-4039-8584-7324A970D79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58F60BD-CDD9-4039-8584-7324A970D79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58F60BD-CDD9-4039-8584-7324A970D79B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
