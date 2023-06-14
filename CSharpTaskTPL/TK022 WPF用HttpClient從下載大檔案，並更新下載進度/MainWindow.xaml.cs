@@ -53,7 +53,7 @@ namespace TK022_WPF用HttpClient從下載大檔案_並更新下載進度
 
         private async void btn開始_Click(object sender, RoutedEventArgs e)
         {
-            string page = "https://vulcanfiles.blob.core.windows.net/$web/BlazorVideo.mp4";
+            string page = "https://vulcanmvpfiles.blob.core.windows.net/$web/BlazorVideo.mp4";
             cts = new CancellationTokenSource();
             var progressIndicator = new Progress<int>((s) =>
             {

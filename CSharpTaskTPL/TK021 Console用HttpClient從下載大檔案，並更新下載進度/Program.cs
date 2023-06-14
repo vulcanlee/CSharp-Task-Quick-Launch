@@ -9,7 +9,7 @@ namespace TK021_Console用HttpClient從下載大檔案_並更新下載進度
     {
         static async Task Main(string[] args)
         {
-            string url = "https://vulcanfiles.blob.core.windows.net/$web/BlazorVideo.mp4";
+            string url = "https://vulcanmvpfiles.blob.core.windows.net/$web/BlazorVideo.mp4";
             CancellationTokenSource cts = new CancellationTokenSource();
 
             var progress = new Progress<int>((s) =>
